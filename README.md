@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hello, I'm Alw1nter<br><br>Aspiring Cybersecurity Enthusiast | 20 Years Old<br><br>---<br><br>### About Me<br><br>- 🔐 Passionate about **cybersecurity**, **Red Teaming**.<br>- 🎵 Love listening to and discovering new music while I code.<br>- 🧩 Enjoy **breaking codes**, solving puzzles, and understanding how systems work from the ground up.<br>- 🌱 Currently learning and sharpening my skills on platforms like TryHackMe and Hack The Box.
+# 👋 Hello, I'm Alw1nter<br><br>Aspiring Cybersecurity Enthusiast | 20 Years Old<br><br>---<br><br>### About Me<br><br>- 🔐 Passionate about **cybersecurity**, **Red Teaming**.<br>- 🎵 Love music while I code.<br>- 🧩 Enjoy **breaking codes**, solving puzzles, and understanding how systems work from the ground up.<br>- 🌱 Currently sharpening my skills on platforms like THM & HTB.
 
 
 ## 🌐 Socials:
